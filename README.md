@@ -1,1 +1,1 @@
-# StocK-Market-Prediction
+# Stock-Market-Prediction
